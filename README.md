@@ -1,5 +1,3 @@
-<!-- ===================== HEADER ===================== -->
-
 <h1 align="center">🎬 Lumix</h1>
 <h3 align="center">Modern OTT Streaming Platform</h3>
 
@@ -12,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="lumix-ott-platform.vercel.app">
+  <a href="https://lumix-ott-platform.vercel.app/">
     <img src="https://img.shields.io/badge/Live-Demo-FF4B2B?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://github.com/Chirag-hub07/Lumix-OTT-Platform">
